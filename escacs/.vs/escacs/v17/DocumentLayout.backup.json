@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\",
+  "WorkspaceRootPath": "C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\taulell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\taulell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\joc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\joc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,15 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "taulell.cpp",
+              "DocumentMoniker": "C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\taulell.cpp",
+              "RelativeDocumentMoniker": "escacs\\taulell.cpp",
+              "ToolTip": "C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\taulell.cpp",
+              "RelativeToolTip": "escacs\\taulell.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T11:42:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "joc.cpp",
+              "DocumentMoniker": "C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\joc.cpp",
+              "RelativeDocumentMoniker": "escacs\\joc.cpp",
+              "ToolTip": "C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\joc.cpp",
+              "RelativeToolTip": "escacs\\joc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T11:42:09.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp",
               "RelativeDocumentMoniker": "escacs\\main.cpp",
-              "ToolTip": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp",
+              "ToolTip": "C:\\Users\\PMATES\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp",
               "RelativeToolTip": "escacs\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
