@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\taulell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\taulell.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,24 +23,12 @@
       "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\joc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\taulell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\taulell.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\joc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\joc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6F5AE81-0C97-47DB-8839-22CD9E55BFC4}|escacs\\escacs.vcxproj|solutionrelative:escacs\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "taulell.h",
               "DocumentMoniker": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\taulell.h",
               "RelativeDocumentMoniker": "escacs\\taulell.h",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "joc.h",
               "DocumentMoniker": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\joc.h",
               "RelativeDocumentMoniker": "escacs\\joc.h",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "escacs\\joc.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-26T11:47:09.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T11:47:09.225Z"
             },
             {
               "$type": "Document",
@@ -74,27 +73,27 @@
               "RelativeDocumentMoniker": "escacs\\includes.h",
               "ToolTip": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\includes.h",
               "RelativeToolTip": "escacs\\includes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-26T11:46:46.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "defines.h",
               "DocumentMoniker": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\defines.h",
               "RelativeDocumentMoniker": "escacs\\defines.h",
               "ToolTip": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\defines.h",
               "RelativeToolTip": "escacs\\defines.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-26T11:46:36.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "taulell.cpp",
               "DocumentMoniker": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\taulell.cpp",
               "RelativeDocumentMoniker": "escacs\\taulell.cpp",
@@ -102,12 +101,11 @@
               "RelativeToolTip": "escacs\\taulell.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-26T11:42:15.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T11:42:15.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "joc.cpp",
               "DocumentMoniker": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\joc.cpp",
               "RelativeDocumentMoniker": "escacs\\joc.cpp",
@@ -119,15 +117,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp",
               "RelativeDocumentMoniker": "escacs\\main.cpp",
               "ToolTip": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp",
               "RelativeToolTip": "escacs\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-20T21:15:11.95Z"
+              "WhenOpened": "2026-05-20T21:15:11.95Z",
+              "EditorCaption": ""
             }
           ]
         }
