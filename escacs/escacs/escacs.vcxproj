@@ -127,6 +127,12 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="taulell.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="defines.h" />
+    <ClInclude Include="includes.h" />
+    <ClInclude Include="joc.h" />
+    <ClInclude Include="taulell.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
