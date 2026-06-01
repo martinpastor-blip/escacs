@@ -6,3 +6,11 @@
 int main()
 {
 
+	inicialitzarTaulell();
+
+	imprimirTaulell();
+
+
+
+
+}

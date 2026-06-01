@@ -50,8 +50,7 @@
               "RelativeToolTip": "escacs\\taulell.cpp",
               "ViewState": "AgIAAHsAAAAAAAAAAAAIwJYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T17:41:59.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T17:41:59.954Z"
             },
             {
               "$type": "Document",
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "escacs\\main.cpp",
               "ToolTip": "C:\\Users\\mpastor\\Documents\\GitHub\\escacs\\escacs\\escacs\\main.cpp",
               "RelativeToolTip": "escacs\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-01T17:41:33.824Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "escacs\\joc.cpp",
               "ViewState": "AgIAAMoBAAAAAAAAAAAIwNwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-01T17:40:43.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T17:40:43.066Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "escacs\\taulell.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-01T17:40:25.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T17:40:25.148Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "escacs\\joc.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-01T17:39:39.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T17:39:39.223Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "escacs\\includes.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-01T17:39:36.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T17:39:36.539Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "escacs\\defines.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-06-01T17:39:28.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T17:39:28.264Z"
             }
           ]
         }
