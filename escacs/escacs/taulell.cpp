@@ -6,6 +6,7 @@ Fitxa taulell[TAMANYTAULELL][TAMANYTAULELL];
 Partida partida;
 
 
+// Assigna una fitxa a una casella del taulell i actualitza el seu simbol 
 void posarFitxa(int fila, int columna, ColorFitxa color, TipusFitxa tipus)
 {
     taulell[fila][columna].color = color;
@@ -74,14 +75,14 @@ void posarFitxa(int fila, int columna, ColorFitxa color, TipusFitxa tipus)
     }
 }
 
-
-
-
+// Inicialitza el taulell amb totes les peces a la posicio inicial i prepara la partida per a que comencin les blanques
 void inicialitzarTaulell()
 {
+    // Comencen les blanques i la partida no ha acabat
     partida.tornActual = ColorFitxa::BLANC;
     partida.partidaAcabada = false;
 
+    // Buidem tot el taulell
     for (int fila = ZERO; fila < TAMANYTAULELL; fila++)
     {
         for (int columna = ZERO; columna < TAMANYTAULELL; columna++)
@@ -90,12 +91,14 @@ void inicialitzarTaulell()
         }
     }
 
+    // Posem els peons
     for (int columna = ZERO; columna < TAMANYTAULELL; columna++)
     {
         posarFitxa(FILA_PEONS_NEGRE, columna, ColorFitxa::NEGRE, TipusFitxa::PEO);
         posarFitxa(FILA_PEONS_BLANC, columna, ColorFitxa::BLANC, TipusFitxa::PEO);
     }
 
+    // Peces negres a la fila ZERO
     posarFitxa(FILA_PECES_NEGRE, COLUMNA_TORRE_ESQ, ColorFitxa::NEGRE, TipusFitxa::TORRE);
     posarFitxa(FILA_PECES_NEGRE, COLUMNA_CAVALL_ESQ, ColorFitxa::NEGRE, TipusFitxa::CAVALL);
     posarFitxa(FILA_PECES_NEGRE, COLUMNA_ALFIL_ESQ, ColorFitxa::NEGRE, TipusFitxa::ALFIL);
@@ -105,6 +108,7 @@ void inicialitzarTaulell()
     posarFitxa(FILA_PECES_NEGRE, COLUMNA_CAVALL_DRE, ColorFitxa::NEGRE, TipusFitxa::CAVALL);
     posarFitxa(FILA_PECES_NEGRE, COLUMNA_TORRE_DRE, ColorFitxa::NEGRE, TipusFitxa::TORRE);
 
+    // Peces blanques a la fila SET
     posarFitxa(FILA_PECES_BLANC, COLUMNA_TORRE_ESQ, ColorFitxa::BLANC, TipusFitxa::TORRE);
     posarFitxa(FILA_PECES_BLANC, COLUMNA_CAVALL_ESQ, ColorFitxa::BLANC, TipusFitxa::CAVALL);
     posarFitxa(FILA_PECES_BLANC, COLUMNA_ALFIL_ESQ, ColorFitxa::BLANC, TipusFitxa::ALFIL);
@@ -116,6 +120,7 @@ void inicialitzarTaulell()
 }
 
 
+// Mostra el taulell per pantalla amb les peces actuals i indica de qui es el torn
 void imprimirTaulell()
 {
     std::cout << "\nESCACS: POL MATES I MARTIN PASTOR\n";
@@ -124,6 +129,7 @@ void imprimirTaulell()
 
     for (int fila = ZERO; fila < TAMANYTAULELL; fila++)
     {
+        // Restem per mostrar les files de l'VUIT al UN de dalt a baix
         std::cout << " " << TAMANYTAULELL - fila << " |";
         for (int columna = ZERO; columna < TAMANYTAULELL; columna++)
         {
@@ -136,10 +142,10 @@ void imprimirTaulell()
 
     if (partida.tornActual == ColorFitxa::BLANC)
     {
-        std::cout << "    Torn de Blanques (Majuscules)\n";
+        std::cout << "    TORN: BLANQUES (Maj)\n";
     }
     if (partida.tornActual == ColorFitxa::NEGRE)
     {
-        std::cout << "    Torn de Negres (Minuscules)\n";
+        std::cout << "    TORN: NEGRES (Min)\n";
     }
 }
