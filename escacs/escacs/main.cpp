@@ -63,3 +63,43 @@ int main()
             missatgeError = "Columna fora de rang, introdueix un valor entre  1-8.";
             continue;
         }
+
+        int filaMatriuOrigen = TAMANYTAULELL - filaOrigen;
+        int columnaMatriuOrigen = columnaOrigen - UN_PAS;
+        int filaMatriuDesti = TAMANYTAULELL - filaDesti;
+        int columnaMatriuDesti = columnaDesti - UN_PAS;
+
+        if (!moureFitxa(filaMatriuOrigen, columnaMatriuOrigen, filaMatriuDesti, columnaMatriuDesti))
+        {
+            missatgeError = "Moviment illegal o no es el teu torn.";
+        }
+
+        else if (estaEnEscac(partida.tornActual))
+        {
+            missatgeError = "ESCAC! El rei esta en perill.";
+        }
+
+
+    }
+
+    std::system("cls");
+    imprimirTaulell();
+
+    if (estaEnEscac(partida.tornActual))
+    {
+        if (partida.tornActual == ColorFitxa::BLANC)
+        {
+            std::cout << "\n Guanyen les negres per jaque mat\n";
+        }
+        if (partida.tornActual == ColorFitxa::NEGRE)
+        {
+            std::cout << "\n Guanyen les blanques per jaq mat.\n";
+        }
+    }
+    else
+    {
+        std::cout << "\n Taules! Cap jugador pot fer cap moviment legal.\n";
+    }
+
+    return ZERO;
+}
